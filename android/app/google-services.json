@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "950221205429",
+    "firebase_url": "https://social-harmless.firebaseio.com",
+    "project_id": "social-harmless",
+    "storage_bucket": "social-harmless.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950221205429:android:fca6c88c5d6c496cafb3fc",
+        "android_client_info": {
+          "package_name": "com.galbuandco.social_harmeless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950221205429-gmbnj1t9tdjdim0899o3o2ructuiu9q3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBJ9mKHBdQbjvHOGkmeLuT_bdfFszbQmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950221205429-gmbnj1t9tdjdim0899o3o2ructuiu9q3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
