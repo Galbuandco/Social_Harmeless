@@ -1,16 +1,17 @@
 # social_harmeless
 
-A new Instagram application which doesn&#x27;t ruin your life 
+A simple try to create an Open Source Social Network in which you can share only images, only with your close friends.
 
-## Getting Started
+This Project is made with Flutter and Firebase.
 
-This project is a starting point for a Flutter application.
+I dindn't refactor the code yet, so sorry for the mess.
 
-A few resources to get you started if this is your first Flutter project:
+At this stage is working the Login, the loading process and the display of images  to the user.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+The problem is I haven't implemented yet the way to add friends and to show content only to friends.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app will not work as it is since my firebase backend is close, you need to add yours.
+
+![Alt text](login.png?raw=true "Title")
+
+![Alt text](social_harmless.png?raw=true "Title")
